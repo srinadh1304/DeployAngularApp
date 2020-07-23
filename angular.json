@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "iacademiaApp"
+    }
+  },
+  "defaultProject": "iacademiaApp",
+  "cli": {
+    "analytics": "d739c067-88af-496a-96c9-57a87aa2fa32"
+  }
 }
